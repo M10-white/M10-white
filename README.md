@@ -1,3 +1,4 @@
+---
 # Hi there, I'm Brahim Chaouki (M10-white)! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/M10-white?label=Follow&style=social)](https://github.com/login?return_to=%2FM10-white)
@@ -42,7 +43,4 @@ I'm a passionate developer with a strong interest in AI, Machine Learning, and W
 - **Website:** [chkwebdev.com](https://chkwebdev.com/)
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
-
 ---
-
-*This README was generated with ❤️ by M10-white*
