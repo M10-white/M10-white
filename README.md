@@ -38,7 +38,7 @@ I'm a passionate developer with a strong interest in AI, Machine Learning, and W
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M10-white&layout=compact&theme=radical)
 
 ## Retrouvez mes autres projets
-- [GitLab Profile](https://gitlab.com/bchaouki)
+- **GitLab:** [Profile](https://project.peaks.fr/bchaouki)
   
 ## 📫 Contact Me
 - **Email:** [chkwebdev1@gmail.com](mailto:chkwebdev1@gmail.com)
