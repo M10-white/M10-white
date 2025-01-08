@@ -1,5 +1,5 @@
 # Hi there, I'm Brahim Chaouki (M10-white)! 👋
-👨‍💻 I'm a 20-year-old passionate student developer from France with a strong interest in AI, Machine Learning, and Web Development. I enjoy working on innovative projects and continuously learning new technologies.
+👨‍💻 I'm a 20-year-old passionate student developer from France with a strong interest in AI, Machine Learning, and Web Development. I enjoy working on innovative projects and continuously learning new technologies.\
 [![GitHub Views](https://komarev.com/ghpvc/?username=M10-white&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/login?return_to=%2FM10-white)
 [![GitHub followers](https://img.shields.io/github/followers/M10-white?label=Follow&style=social)](https://github.com/login?return_to=%2FM10-white)
 
