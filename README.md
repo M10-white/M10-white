@@ -7,6 +7,7 @@ I'm a passionate developer with a strong interest in AI, Machine Learning, and W
 
 ## 🛠️ Skills
 ### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M10-white&theme=radical)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -36,7 +37,6 @@ I'm a passionate developer with a strong interest in AI, Machine Learning, and W
 ## 📊 GitHub Stats
 ![M10-white's GitHub stats](https://github-readme-stats.vercel.app/api?username=M10-white&show_icons=true&theme=radical)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=M10-white&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M10-white&theme=radical)
 
 ## 📫 Contact Me
 - **Email:** [chkwebdev1@gmail.com](mailto:chkwebdev1@gmail.com)
