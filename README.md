@@ -35,7 +35,8 @@
 
 ## 📊 GitHub Stats
 ![M10-white's GitHub stats](https://github-readme-stats.vercel.app/api?username=M10-white&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=M10-white)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=M10-white&theme=radical" alt="GitHub Streak" /></a>
+
 ## 📫 Contact Me
 - **Email:** [chkwebdev1@gmail.com](mailto:chkwebdev1@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chkbrahim/)
