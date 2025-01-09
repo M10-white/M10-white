@@ -8,7 +8,7 @@
 
 <h3 align="left" style="color:#fe428e;">📫 How to reach me:</h3>
 <p align="center"> 
-    <a href="www.chkwebdev.com">
+    <a href="https://chkwebdev.com/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="website logo" />
   </a>
   <a href="https://www.linkedin.com/in/chkbrahim/">
