@@ -64,8 +64,8 @@
 <h3 align="left" style="color:#fe428e;">📈 My GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M10-white&show_icons=true&theme=radical" alt="M10-white's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M10-white&theme=radical" alt="M10-white" />
+    <img src="https://github-readme-stats.vercel.app/api?username=M10-white&show_icons=true&theme=radical" alt="M10-white's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M10-white&theme=radical" alt="M10-white" />
 </p>
 
 ---
