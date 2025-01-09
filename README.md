@@ -2,7 +2,12 @@
 
 <img src="https://i0.wp.com/chkwebdev.com/wp-content/uploads/2024/05/Banniere-Copie.png?w=2028&ssl=1" alt="Header" style="width: 100%;  border-radius: 10px;">
 <h3 align="center" style="color:#fe428e;">I'm a 20-year-old passionate student developer from France with a strong interest in AI, Machine Learning, and Web Development. I enjoy working on innovative projects and continuously learning new technologies.</h3>
-<p align="center">👨‍💻<img src="https://komarev.com/ghpvc/?username=M10-white&label=Profile%20views&color=0e75b6&style=flat-square" alt="M10-white" /></p>
+<p align="center">
+    👨‍💻 
+    <img src="https://komarev.com/ghpvc/?username=M10-white&label=Profile%20views&color=0e75b6&style=flat-square" alt="M10-white views" />
+    <img src="https://img.shields.io/github/followers/M10-white?label=Follow&style=social" alt="M10-white followers" />
+    👨‍💻
+</p>
 
 ---
 
