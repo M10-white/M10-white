@@ -1,7 +1,7 @@
-# Bienvenu sur mon profil Github ! 👋
+# Welcome to my Github profile ! 👋
 
 <img src="https://i0.wp.com/chkwebdev.com/wp-content/uploads/2024/05/Banniere-Copie.png?w=2028&ssl=1" alt="Header" style="width: 100%;  border-radius: 10px;">
-<h3 align="center" style="color:#fe428e;">👨‍💻 I'm a 20-year-old passionate student developer from France</h3>
+<h3 align="center" style="color:#fe428e;">👨‍💻 I'm a 20-year-old passionate student developer from France with a strong interest in AI, Machine Learning, and Web Development. I enjoy working on innovative projects and continuously learning new technologies.</h3>
 
 ---
 
