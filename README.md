@@ -74,3 +74,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M10-white&theme=radical" alt="M10-white's Top Languages">
 </p>
+
+<h3 align="center" style="color:#fe428e;">Feel free to reach out if you want to collaborate on a project or just want to connect!</h3>
+
